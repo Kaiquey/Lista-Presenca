@@ -1,0 +1,17 @@
+# Lista de Presença
+  
+Como uma forma de integrar html e js a uma planilha do próprio google planilhas.
+
+
+# O que foi utilizado?
+* Sheet Monkey como API
+* JavaScript
+* HTML:5
+
+- `Finalidade`: Para que seja mais efetivo a execução da lista de presença por parte dos professores que anexam o nome, data e hora e usam o Excel como banco de dados.
+
+- `Como alterar a planilha`: Utilizando o Sheet Monkkey, crie a planilha e copie o link ao qual será gerado, após isso no código o fetch altere o diretório para o link ao qual você deseja.
+<br/>
+<p align = "center;">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Concluido&color=GREEN&style=for-the-badge"/>
+<p/>
