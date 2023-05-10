@@ -26,6 +26,7 @@ document.addEventListener("DOMContentLoaded", function(event){
        }
        setSuccessFor();
     });
+    
     function setSuccessFor(){
         event.preventDefault();
         Toastify({
